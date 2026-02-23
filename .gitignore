@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Machine Learning
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.pickle
+!best_model.pt
+
+# Data (uncomment if you don't want to track large datasets)
+uav_raw/
+processed_data/
+
+# Outputs (keep results but ignore intermediate files)
+outputs/weights/*
+!outputs/weights/.gitkeep
+outputs/runs/
+
+# Logs
+*.log
+logs/
+tensorboard/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
