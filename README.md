@@ -145,9 +145,5 @@ This project is available for educational and research purposes.
 
 ## Author
 
-**Your Name**
+**Om Borda**
 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your.email@example.com)
-
----
-
-*Developed as part of Computer Vision coursework - showcasing end-to-end ML project development skills*
