@@ -146,4 +146,3 @@ This project is available for educational and research purposes.
 ## Author
 
 **Om Borda**
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your.email@example.com)
